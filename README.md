@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-[![Student](https://img.shields.io/badge/Student-University_of_Utah-red?style=for-the-badge&logo=academia&logoColor=white)](https://www.utah.edu/)
+[![Student](https://img.shields.io/badge/Student-University_of_Utah-red?style=for-the-badge&logoColor=white)](https://www.utah.edu/)
 
 ### Currently Working On
  E2EE Security Camera Implementation (Rust)
