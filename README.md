@@ -77,5 +77,9 @@ He/Him
 [![egui](https://img.shields.io/badge/egui-2E8B57?style=for-the-badge&logo=rust&logoColor=white)](https://egui.rs)
 [![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/maui)
 [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app/)
-
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![tokio](https://img.shields.io/badge/tokio-000000?style=for-the-badge&logo=rust&logoColor=white)](https://tokio.rs/)
+[![actix-web](https://img.shields.io/badge/actix_web-146CC9?style=for-the-badge&logo=rust&logoColor=white)](https://actix.rs/)
+[![serde](https://img.shields.io/badge/serde-CB3837?style=for-the-badge&logo=rust&logoColor=white)](https://serde.rs/)
+[![CI/CD](https://img.shields.io/badge/CI/CD-4A154B?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 </div>
