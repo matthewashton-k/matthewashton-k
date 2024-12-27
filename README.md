@@ -4,21 +4,21 @@
 
 [![Student](https://img.shields.io/badge/Student-University_of_Utah-red?style=for-the-badge&logo=academia&logoColor=white)](https://www.utah.edu/)
 
-### 🔭 Currently Working On
+### Currently Working On
  E2EE Security Camera Implementation (Rust)
 <br> Custom Malloc Implementation (C)
 
-### 🎯 Interests
+###  Interests
  🎵 Flute
 <br> 📄 Origami  
  🥖 Baking
 
-### 👤 Pronouns
+### Pronouns
 He/Him
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🛡️ POC Shellcode Loader
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/poc-shellcode-loader)
@@ -26,9 +26,9 @@ He/Him
 *December 2023*
 
 Advanced Windows security research demonstrating novel AV evasion techniques through:
-<br>🔓 Discovery of thread deadlock exploitation in DLL sequences
-<br>🎯 Significant reduction in Metasploit payload detection rates
-<br>💡 Innovative approach to Windows security analysis
+<br> Discovery of thread deadlock exploitation in DLL sequences
+<br> Significant reduction in Metasploit payload detection rates
+<br> Innovative approach to Windows security analysis
 
 ## 🖥️ Instructional MIPS Emulator
 [![Github](https://img.shields.io/badge/Github%20Repo-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/matthewashton-k/LearnMips)
@@ -36,10 +36,10 @@ Advanced Windows security research demonstrating novel AV evasion techniques thr
 *April 2024*
 
 Full-featured MIPS architecture emulator with:
-<br>👥 Led 5-person Agile team to 100% project completion
-<br>⚡ Optimized QT implementation with efficient memory management
-<br>📊 Comprehensive market analysis of competing emulators
-<br>🔄 Daily Agile workflows and sprint planning
+<br> Led 5-person Agile team to 100% project completion
+<br> Optimized QT implementation with efficient memory management
+<br> Comprehensive market analysis of competing emulators
+<br> Daily Agile workflows and sprint planning
 
 ## 📹 Security Camera System
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/security-cam-server)
@@ -47,15 +47,15 @@ Full-featured MIPS architecture emulator with:
 *November 2023*
 
 High-performance surveillance system featuring:
-<br>⚡ Performance optimization from 10 FPS to 30 FPS
-<br>🔐 Encrypted video transmission via REST APIs
-<br>🎫 Robust session-based authentication system
+<br> Performance optimization from 10 FPS to 30 FPS
+<br> Encrypted video transmission via REST APIs
+<br> Robust session-based authentication system
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-## 🔧 Languages
+## Languages
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -71,7 +71,7 @@ High-performance surveillance system featuring:
 <br>**Java**: Javax Swing, Game Development
 <br>**Python**: Web Scraping, BeautifulSoup, Parsing, Discrete Math
 
-## 🛠️ Frameworks & Tools
+## Frameworks & Tools
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Shuttle.rs](https://img.shields.io/badge/Shuttle.rs-7B68EE?style=for-the-badge&logo=rust&logoColor=white)](https://shuttle.rs)
 [![egui](https://img.shields.io/badge/egui-2E8B57?style=for-the-badge&logo=rust&logoColor=white)](https://egui.rs)
