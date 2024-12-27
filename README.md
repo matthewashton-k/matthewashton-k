@@ -20,7 +20,7 @@ He/Him
 
 # Featured Projects
 
-## 🛡️ POC Shellcode Loader
+## 🛡️ POC Shellcode Loader:
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/poc-shellcode-loader)
 
 *December 2023*
@@ -30,7 +30,7 @@ Advanced Windows security research demonstrating novel AV evasion techniques thr
 <br> Significant reduction in Metasploit payload detection rates
 <br> Innovative approach to Windows security analysis
 
-## 🖥️ Instructional MIPS Emulator
+## 🖥️ Instructional MIPS Emulator:
 [![Github](https://img.shields.io/badge/Github%20Repo-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/matthewashton-k/LearnMips)
 
 *April 2024*
@@ -41,7 +41,7 @@ Full-featured MIPS architecture emulator with:
 <br> Comprehensive market analysis of competing emulators
 <br> Daily Agile workflows and sprint planning
 
-## 📹 Security Camera System
+## 📹 Security Camera System:
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/security-cam-server)
 
 *November 2023*
