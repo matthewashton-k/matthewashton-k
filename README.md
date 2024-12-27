@@ -25,7 +25,7 @@ He/Him
 
 *December 2023*
 
-Advanced Windows security research demonstrating novel AV evasion techniques through:
+**Advanced Windows security research demonstrating novel AV evasion techniques through:**
 <br> Discovery of thread deadlock exploitation in DLL sequences
 <br> Significant reduction in Metasploit payload detection rates
 <br> Innovative approach to Windows security analysis
@@ -35,7 +35,7 @@ Advanced Windows security research demonstrating novel AV evasion techniques thr
 
 *April 2024*
 
-Full-featured MIPS architecture emulator with:
+**Full-featured MIPS architecture emulator with:**
 <br> Led 5-person Agile team to 100% project completion
 <br> Optimized QT implementation with efficient memory management
 <br> Comprehensive market analysis of competing emulators
@@ -46,7 +46,7 @@ Full-featured MIPS architecture emulator with:
 
 *November 2023*
 
-High-performance surveillance system featuring:
+**High-performance surveillance system featuring:**
 <br> Performance optimization from 10 FPS to 30 FPS
 <br> Encrypted video transmission via REST APIs
 <br> Robust session-based authentication system
