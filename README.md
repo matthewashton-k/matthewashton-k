@@ -7,7 +7,7 @@
 ### Currently Working On
  E2EE Security Camera Implementation (Rust)
 <br> Custom Malloc Implementation (C)
-<br> Embedded development for the rp2040 using embassy.rs (Rust)
+<br> Embedded development for the rp2040 using embassy.dev (Rust)
 
 ###  Interests
  🎵 Flute
