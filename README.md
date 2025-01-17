@@ -65,12 +65,13 @@ He/Him
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Specializations
-<br>**Rust**: Systems Programming, Desktop GUIs, Network Technologies, tokio, actix
+<br>**Rust**: Systems Programming, Desktop GUIs, Network Technologies, tokio, actix, Embedded Development
 <br>**C**: Systems Programming, Memory Management, Custom Allocators
 <br>**C++**: Qt Framework, Assembly Emulation
 <br>**C#**: MAUI, Windows Forms, Asynchronous Networking
 <br>**Java**: Javax Swing, Game Development
 <br>**Python**: Web Scraping, BeautifulSoup, Parsing, Discrete Math
+<br>**Malware Analysis**: Reverse Engineering, Ghidra, IDA Pro, ILspy
 
 ## Frameworks & Tools
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
