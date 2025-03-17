@@ -5,17 +5,10 @@
 [![Student](https://img.shields.io/badge/Student-University_of_Utah-red?style=for-the-badge&logoColor=white)](https://www.utah.edu/)
 
 ### Currently Working On
- E2EE Security Camera Implementation
-<br> Data Visualization with rerun.io
+Writing software for an ancient jailbroken Kindle Paperwhite!
+<br> Data visualization with rerun.io
 <br> Embedded development for the rp2040 using embassy.dev
 
-###  Interests
- 🎵 Flute
-<br> 📄 Origami  
- 🥖 Baking
-
-### Pronouns
-He/Him
 
 ---
 
