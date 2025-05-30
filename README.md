@@ -7,8 +7,8 @@
 ### Currently Working On
 Writing software for an ancient jailbroken Kindle Paperwhite!
 <br> Data visualization with rerun.io
-<br> Embedded development for the rp2040 using embassy.dev
-
+<br> Working at Neighbor.com learning and using golang, rails, and more!
+<br> Working on autonomy for the NASA lunabotics competition.
 
 ---
 
