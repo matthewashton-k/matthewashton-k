@@ -14,6 +14,17 @@ Writing software for an ancient jailbroken Kindle Paperwhite!
 
 # Featured Projects
 
+## NASA Lunabotics Autonomous Rover Control System
+[![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/utahrobotics/cu-lunabotics/tree/main)
+
+*May 2025*
+
+**Lunar Excavation System for the NASA Lunabotics Competition Featuring:**
+<br> LiDAR and RGB-D point cloud processing for accurate localization
+<br> Advanced visualization and deterministic replayability
+<br> Teleoperated and autonomous modes
+<br> Interprocess communication for separation of components
+
 ## 🛡️ POC Shellcode Loader:
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/poc-shellcode-loader)
 
@@ -34,16 +45,6 @@ Writing software for an ancient jailbroken Kindle Paperwhite!
 <br> Optimized QT implementation with efficient memory management
 <br> Comprehensive market analysis of competing emulators
 <br> Daily Agile workflows and sprint planning
-
-## 📹 Security Camera System:
-[![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/security-cam-server)
-
-*November 2023*
-
-**High-performance surveillance system featuring:**
-<br> Performance optimization from 10 FPS to 30 FPS
-<br> Encrypted video transmission via REST APIs
-<br> Robust session-based authentication system
 
 ---
 
