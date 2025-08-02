@@ -5,10 +5,8 @@
 [![Student](https://img.shields.io/badge/Student-University_of_Utah-red?style=for-the-badge&logoColor=white)](https://www.utah.edu/)
 
 ### Currently Working On
-Writing software for an ancient jailbroken Kindle Paperwhite!
-<br> Data visualization with rerun.io
+<br> Software stack for an autonomous robot in the NASA Lunabotics competition.
 <br> Working at Neighbor.com learning and using golang, rails, and more!
-<br> Working on autonomy for the NASA lunabotics competition.
 
 ---
 
@@ -23,7 +21,7 @@ Writing software for an ancient jailbroken Kindle Paperwhite!
 <br> LiDAR and RGB-D point cloud processing for accurate localization
 <br> Advanced visualization and deterministic replayability
 <br> Teleoperated and autonomous modes
-<br> Interprocess communication for separation of components
+<br> Interprocess communication for modularity
 
 ## 🛡️ POC Shellcode Loader:
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/poc-shellcode-loader)
