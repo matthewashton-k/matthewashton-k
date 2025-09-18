@@ -1,6 +1,6 @@
 <div align="left">
 
-# 👋 About Me
+# About Me
 
 [![Student](https://img.shields.io/badge/Student-University_of_Utah-red?style=for-the-badge&logoColor=white)](https://www.utah.edu/)
 
@@ -23,7 +23,7 @@
 <br> Teleoperated and autonomous modes
 <br> Interprocess communication for modularity
 
-## 🛡️ POC Shellcode Loader:
+## POC Shellcode Loader:
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/poc-shellcode-loader)
 
 *December 2023*
@@ -33,7 +33,7 @@
 <br> Significant reduction in Metasploit payload detection rates
 <br> Innovative approach to Windows security analysis
 
-## 🖥️ Instructional MIPS Emulator:
+## Instructional MIPS Emulator:
 [![Github](https://img.shields.io/badge/Github%20Repo-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/matthewashton-k/LearnMips)
 
 *April 2024*
