@@ -50,8 +50,8 @@
 
 
 ### Specializations
-<br>**Rust**: Systems Programming, Desktop GUIs, Network Technologies, tokio, actix, Embedded Development
-<br>**C**: Systems Programming, Memory Management, Custom Allocators
+<br>**Rust**: Robotics, Systems Programming, Desktop GUIs, Network Technologies, tokio, actix, Embedded Development
+<br>**C**: Robotics, Systems Programming, Memory Management, Custom Allocators
 <br>**C++**: Qt Framework, Assembly Emulation
 <br>**C#**: MAUI, Windows Forms, Asynchronous Networking
 <br>**Go**: Go microservices for supporting payment systems.
