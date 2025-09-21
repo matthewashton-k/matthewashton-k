@@ -5,7 +5,7 @@
 [![Student](https://img.shields.io/badge/Student-University_of_Utah-red?style=for-the-badge&logoColor=white)](https://www.utah.edu/)
 
 ### Currently Working On
-<br> Software stack for an autonomous robot in the NASA Lunabotics competition featuring: SLAM, Kalman filtering, visual odometry, sensor fusion, embedded development, data visualization, real time obstacle detection, and novel obstacle detection that runs on the GPU (plus a lot more cool things, check out the repo below)!
+<br> Software stack for an autonomous robot in the NASA Lunabotics competition featuring: SLAM, Kalman filtering, visual odometry, sensor fusion, embedded development, data visualization, and novel real time obstacle detection that runs on the GPU (plus a lot more cool things, check out the repo below)!
 
 ---
 
