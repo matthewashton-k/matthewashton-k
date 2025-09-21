@@ -45,6 +45,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
 
 ### Specializations
 <br>**Rust**: Systems Programming, Desktop GUIs, Network Technologies, tokio, actix, Embedded Development
