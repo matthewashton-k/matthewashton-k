@@ -24,6 +24,7 @@
 <br> Sensor Fusion and filtering
 <br> Behavior Tree based decision making
 <br> Embedded rust for controlling actuators and interacting with IMUs
+<br> Advanced Physics simulation with google deepmind's MuJoCo
 
 ## POC Shellcode Loader:
 [![Github](https://img.shields.io/badge/Github%20Repo-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/matthewashton-k/poc-shellcode-loader)
